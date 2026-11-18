@@ -1,6 +1,6 @@
-### Phần 1. Nhật ký suy luận logic (Reasoning Steps)
+# Phần 1. Nhật ký suy luận logic (Reasoning Steps)
 
-#### Bước 1. Xác định thu nhập khả dụng
+## Bước 1. Xác định thu nhập khả dụng
 * **Thu nhập sau thuế của nguồn lương (N):** 20.000.000 VND (đã được xác định là số tiền thực nhận sau thuế).
 * **Tổng chi phí cố định (F):** Gồm tiền thuê nhà, điện nước, internet.
   * Tiền thuê nhà: 4.000.000 VND
@@ -12,7 +12,7 @@
   * Công thức: A = N - F
   * Thay số: A = 20.000.000 - 5.900.000 = 14.100.000 VND
 
-#### Bước 2. Phân bổ tiền trả nợ
+## Bước 2. Phân bổ tiền trả nợ
 * **Khoản trả tối thiểu trong tháng:** Nợ ngân hàng = 5.100.000 VND.
 * **Tổng tiền trả tối thiểu (D):**
   * Công thức: D = Nợ ngân hàng
@@ -21,7 +21,7 @@
   * Công thức: B = A - D
   * Thay số: B = 14.100.000 - 5.100.000 = 9.000.000 VND
 
-#### Bước 3. Trích tiết kiệm và điều chỉnh theo yêu cầu mới
+## Bước 3. Trích tiết kiệm và điều chỉnh theo yêu cầu mới
 * **Mức tiết kiệm tối thiểu theo quy tắc (20% N):**
   * Công thức: Tối thiểu = N * 20%
   * Thay số: 20.000.000 * 20% = 4.000.000 VND
@@ -37,12 +37,12 @@
   * Chi tiêu tùy chọn: 700.000 VND
   * Quỹ dự phòng: 300.000 VND
 
-#### Đối chiếu tổng phân bổ sau điều chỉnh
+## Đối chiếu tổng phân bổ sau điều chỉnh
 * Tổng phân bổ = 5.900.000 (Cố định) + 5.100.000 (Nợ) + 5.000.000 (Tiết kiệm) + 3.000.000 (Thiết yếu) + 700.000 (Tùy chọn) + 300.000 (Dự phòng) = 20.000.000 VND (Khớp hoàn toàn với tổng thu nhập sau thuế N).
 
 ---
 
-### Phần 2. Bảng phân bổ ngân sách cuối cùng
+# Phần 2. Bảng phân bổ ngân sách cuối cùng
 
 | Hạng mục | Số tiền | Tỷ lệ % | Ghi chú |
 |---|---:|---:|---|
